@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Max Theobald
 tagline: "Welcome to my corner of the web. "
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/2606131.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
