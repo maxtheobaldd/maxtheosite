@@ -5,4 +5,4 @@ title: About Me
 ---
 *This page is Under Development. Watch this space.* 
 
-![Pixel Cyberpunk](/assets/3581596.jpg "Pixel Cyberpunk")
+![Pixel Cyberpunk](/assets/2976642.jpg "Pixel Cyberpunk")
