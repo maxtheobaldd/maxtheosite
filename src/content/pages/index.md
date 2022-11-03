@@ -5,8 +5,7 @@ title: Max Theobald
 tagline: "Welcome to my corner of the web. "
 featuredImage: /assets/2606131.jpg
 cta:
-  ctaText: Know more
+  ctaText: About Me
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Hey, I'm Max, and this is my website. Here you read stuff about me that might interest you.
