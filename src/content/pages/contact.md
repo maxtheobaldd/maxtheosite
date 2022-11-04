@@ -1,5 +1,5 @@
 ---
-template: index-page
+template: contact-page
 slug: /contact
 title: Contact Me
 ---
