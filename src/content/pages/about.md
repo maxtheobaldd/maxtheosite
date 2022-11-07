@@ -1,5 +1,5 @@
 ---
-template: about-page
+template: general-page
 slug: /about
 title: About Me
 ---
