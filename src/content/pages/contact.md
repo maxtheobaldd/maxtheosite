@@ -7,7 +7,7 @@ I﻿f you're looking to get in touch with me, **click on one of the following me
 
 # [📨 Message me right here on my site!](https://maxtheo.tk/contact-form)
 
-# [🔒Message me on Telegram](https://maxtheobald.t.me)
+# [🔒 Message me on Telegram](https://maxtheobald.t.me)
 
 # [🐦 DM me on Twitter](https://twitter.com/maxtheobaldd)
 
