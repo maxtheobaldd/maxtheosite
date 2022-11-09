@@ -1,6 +1,6 @@
 ---
 template: general-page
 slug: /discord
-title: Discord
+title: My Discord Tag
 ---
-Hello World!
+# Shiba Inu#0070
