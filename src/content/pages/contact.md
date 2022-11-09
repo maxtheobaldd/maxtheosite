@@ -11,4 +11,4 @@ I﻿f you're looking to get in touch with me, **click on one of the following me
 
 # [🐦 DM me on Twitter](https://twitter.com/maxtheobaldd)
 
-# [👾 Message me on Discord](https://lookup.guru/638766360284889098)
+# [👾 Message me on Discord](https://maxtheo.tk/discord)
