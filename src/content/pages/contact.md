@@ -5,7 +5,7 @@ title: Contact Me
 ---
 I﻿f you're looking to get in touch with me, **click on one of the following methods.** 
 
-# [📨 Message me right here on my site!](https://maxtheo.tk/contact-form)
+# [📨 Contact me right here on my site!](https://maxtheo.tk/contact-form)
 
 # [🔒 Message me on Telegram](https://maxtheobald.t.me)
 
