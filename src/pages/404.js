@@ -21,9 +21,9 @@ const NotFound = () => (
             color: "var(--primary-color)",
           }}
         />
-        <h1>Page not found...</h1>
+        <h1>Page not found</h1>
         <p>
-          The requested content could not be found. 
+          The requested content could not be found.
         </p>
       </header>
       <Link to="/" className="button">

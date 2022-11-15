@@ -20,8 +20,8 @@ const Thanks = () => (
           color: "var(--primary-color)",
         }}
       />
-      <h1>Message Sent!</h1>
-      <p>I'll get back to you as soon as I can.</p>
+      <h1>Message Received!</h1>
+      <p>You'll receive a reply soon</p>
       <Link to="/" className="button">
         <RiArrowLeftSLine className="icon -left" />
         Back to Homepage
