@@ -16,9 +16,8 @@ const Footer = () => (
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}
-
-        My Only Domain: <Link to="/">maxtheo.tk</Link>
       </p>
+      <p>My Only Domain: <Link to="/">maxtheo.tk</Link></p>
     </div>
   </footer>
 )
