@@ -8,7 +8,7 @@ featuredImage: /assets/_127656743_hancockceleb.jpg.webp
 ---
 # **Good Evening,**
 
-So, the bell### of a Politician we all know and love, made the bright choice to put his position as an MP on the line to fly to Australia to eat Camel Penis and god knows what else to seem like "more of a human". At least he recognises that most politicians aren't even human in the first place. 
+So, the 🔔end of a Politician we all know and love, made the bright choice to put his position as an MP on the line to fly to Australia to eat Camel Penis and god knows what else to seem like "more of a human". At least he recognises that most politicians aren't even human in the first place. 
 
 As usual with the Tories, this was a decision made by Matt to line his own pocket after he, let me make this clear... Broke his own COVID-19 lockdown rules HE set in place by *cheating on his wife with a co-worker*, which was leaked by The Sun last year. 
 
