@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "My thoughts on Matt Hancock on I'm a Celeb. "
+title: "My quick thoughts on Matt Hancock on I'm a Celeb. "
 slug: /matt-hancock
 date: 2022-11-20 02:46
 description: My Thoughts on Matt Hancock on the Popular Reality TV Show.
