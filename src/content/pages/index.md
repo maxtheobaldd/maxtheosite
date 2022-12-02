@@ -8,4 +8,4 @@ cta:
   ctaText: About Me
   ctaLink: /about
 ---
-I﻿ Like Computers.
+Hi, I'm Max and welcome to my site.
