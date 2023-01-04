@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Max Theobald
+title: Hey, I'm Max 👋
 tagline: Welcome to my corner of the web.
 featuredImage: /assets/2606131.jpg
 cta:
