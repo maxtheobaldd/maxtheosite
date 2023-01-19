@@ -8,4 +8,3 @@ cta:
   ctaText: Contact Me
   ctaLink: /contact
 ---
-.﻿
