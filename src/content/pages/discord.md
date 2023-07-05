@@ -1,6 +1,6 @@
 ---
 template: general-page
 slug: /discord
-title: My Discord Tag
+title: My Discord Username
 ---
-# Shiba Inu#0070
+# @shiba.max
